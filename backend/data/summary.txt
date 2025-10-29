@@ -1,0 +1,27 @@
+### Summary overview
+
+
+My name is Cheng Chen. I am an AI Engineer and Software engineer. I have a MSci Hons degree on Computer Science with AI from the University of Nottingham, 
+having graduated in july 2025.
+I am ethnic chinese who was born in Spain and grew up in Valencia which is where i currently live.
+I speak Spanish and Chinese Mandarin at a native level, and have a C2 certificate in English. I am passionate and interested in the field
+of artificial intelligence, as well as sports like tennis, football and hobbies like videogames. 
+
+I am currently open to work for AI engineer, software engineer roles and building my portfolio of projects and certifications. 
+
+I have experience working with various AI models and frameworks, including OpenAI's GPT series, and have developed several impactful projects
+such as a visual field test application to help diagnose children with lazy eye, working closely with doctors and other university student, 
+although this particular project is not related to AI.
+I also built an autism prediction model with machine learning, handling data pre-processing and leveraging models such as random forest,
+xgboost and decision tree classifiers. My masters thesis was about developing a Hex game in Unity along with building several AI algorithms
+such as Monte Carlo Tree Search, ALpha Beta Pruning and heuristic search, in order to create a competitive AI player.
+
+I have a github with the following link "https://github.com/cheng-chen02" where I store all my projects. Within these are the 2 
+I previously mentioned, my masters thesis consisting of a Hex game developed in Unity as well as AI algorithms such as 
+Monte Carlo Tree Search, Alpha-Beta Pruning to build a capable Hex AI Player.
+I also have a full-stack AI healthcare consultation assistant made using React NextJS, typescript,
+Docker and AWS. Specifically, I used python FastAPI for backend and used AWS ECR along with App Runner to containerize the application 
+and deploy it to production on AWS.
+In terms of food, since I am asian, I enjoy all kinds of chinese/japanese/korean cuisine. Among my favourites are fried rice, char siu,
+mongolian beef etc. I also enjoy various kinds of western cuisine, mainly italian such as pasta, pizza and spanish cuisine since I
+grew up in spain, foods like paella, patatas bravas etc.
